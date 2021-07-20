@@ -1,0 +1,111 @@
+body {
+  text-align: center;
+  font-family: fantasy;
+}
+
+#span1 {
+  color: #A19882;
+}
+
+#prog {
+  color: #FF6F61;
+}
+
+#sizeplus {
+  position: relative;
+  margin-bottom: 60px;
+  font-family: fantasy;
+  font-size: 100px;
+  color: #343A40;
+  text-shadow: 4px 4px #A19882;
+}
+
+#inspiration {
+  color: #476072
+}
+
+.Education {
+  color: #A19882;
+  font-size: 30px;
+}
+
+/* #f49831 */
+.name {
+  color: #EEEEEE;
+  font-family: papyrus;
+}
+
+.clg {
+  height: 100px;
+  left: 15%;
+}
+
+.middle {
+  font-size: 30px;
+  font-family: fantasy;
+  margin-top: 30px;
+  color: #EDEDED;
+}
+
+.middle-2 {
+  display: inline;
+  color: white;
+  font-size: 30px;
+  font-family: fantasy;
+}
+
+.img1 {
+  height: 25%;
+  width: 40%;
+}
+
+.interest {
+  color: #FF6F61;
+}
+
+.img2 {
+  width: 40%;
+}
+
+.p1 {
+  color: #A19882;
+}
+
+h1 {
+  color: #FF6F61;
+}
+
+.connect {
+  font-size: 30px;
+}
+
+.topnav {
+  margin-top: 30px;
+  height: 50px;
+  width: 100%;
+  overflow: hidden;
+}
+
+.topnav a {
+  display: inline-block;
+  width: 20%;
+  padding: 10px;
+  background-color: #EEEEEE;
+  font-size: 1rem;
+  font-weight: bolder;
+  text-align: center;
+}
+
+table {
+  margin: 0 auto 0 auto;
+  background-color: gray;
+}
+a{
+  font-size: 30px;
+  color: #A19882;
+
+}
+a:hover {
+  color: black;
+  background-color: gray;
+}

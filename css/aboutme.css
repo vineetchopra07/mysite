@@ -1,0 +1,57 @@
+body {
+  text-align: center;
+  line-height: 2;
+}
+.a12{
+  background-color: #EEEEEE;
+  font-family: monospace;
+  font-size: 30px;
+}
+.f1{
+  color: #7952B3;
+
+  font-size: 40px;
+  font-family: monospace;
+  margin-left: 20px;
+}
+.skills{
+  margin-left: 5%;
+  width: 40%;
+  text-align: left;
+}
+.projects{
+  margin-left: 25%;
+  width: 40%;
+  text-align: left;
+}
+.courses{
+  margin-left: 45%;
+  width: 40%;
+  text-align: left;
+}
+.f3{
+  font-size: 24px;
+  text-align: center;
+  font-family: fantasy;
+  color: #A19882;
+}
+hr{
+  border: 4px solid  #DFCFBE;
+  border-radius: 10px;
+}
+/* .h1{
+  font-size: 30px;
+  color: #FF8303;
+  margin-left: 5%;
+} */
+h1{
+  text-transform:uppercase;
+  font-size:72px;
+  padding:30px;
+}
+li{
+  color: #A19882;
+  font-family: monospace;
+  font-size: 20px;
+}
+s
